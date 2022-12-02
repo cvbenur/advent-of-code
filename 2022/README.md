@@ -5,3 +5,4 @@
 # Answers
 
 - [Day 1](./day%201/README.md)
+- [Day 2](./day%202/README.md)
