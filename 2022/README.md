@@ -6,3 +6,4 @@
 
 - [Day 1](./day%201/README.md)
 - [Day 2](./day%202/README.md)
+- [Day 3](./day%203/README.md)
