@@ -1,8 +1,8 @@
-# Advent of Code 2022 - Day 1: Calorie Counting
+# 🎄 Advent of Code 2022 - Day 1: Calorie Counting
 
-## Part 1
+## ▶ Part 1
 
-### Premise
+### 📜 Premise
 
 > --- Day 1: Calorie Counting ---
 >
@@ -46,7 +46,7 @@
 >
 > Find the Elf carrying the most Calories. **How many total Calories is that Elf carrying?**
 
-### Answer
+### 📝 Answer
 
 ```javascript
 // Part 1:
@@ -62,9 +62,9 @@ const result = Math.max(
 // result = 72070
 ```
 
-## Part 2
+## ▶ Part 2
 
-### Premise
+### 📜 Premise
 
 > --- Part Two ---
 >
@@ -76,7 +76,7 @@ const result = Math.max(
 >
 > Find the top three Elves carrying the most Calories. **How many Calories are those Elves carrying in total?**
 
-### Answer
+### 📝 Answer
 
 ```javascript
 // Part 2:

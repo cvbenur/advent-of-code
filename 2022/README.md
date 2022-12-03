@@ -1,9 +1,13 @@
-# Advent of Code 2022
+# 🎄 Advent of Code - 2022
 
-[Link to challenges](https://adventofcode.com/2022/)
+The challenges for the year 2022 can all be found [over there](https://adventofcode.com/2022/).
 
-# Answers
+For this year, my goal is to solve each challenge using only (or as much as possible) functional programming in JS. You can find out more about all that [right here](https://www.toptal.com/javascript/functional-programming-javascript).
 
-- [Day 1](./day%201/README.md)
-- [Day 2](./day%202/README.md)
-- [Day 3](./day%203/README.md)
+I have sorted all my answers by day.
+
+# 📆 Challenges (sorted by day)
+
+- [Day 1](./day-1/README.md)
+- [Day 2](./day-2/README.md)
+- [Day 3](./day-3/README.md)
