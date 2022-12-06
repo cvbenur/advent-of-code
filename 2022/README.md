@@ -13,3 +13,4 @@ I have sorted all my answers by day.
 - [Day 3](./day-3/README.md)
 - [Day 4](./day-4/README.md)
 - [Day 5](./day-5/README.md)
+- [Day 6](./day-6/README.md)
