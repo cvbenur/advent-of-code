@@ -2,9 +2,6 @@
 
 [📅 Go back to year 2022](../README.md).
 
-**⚠ Disclaimer:** Try as I might, I wasn't able to solve this challenge using functionnal programming...
-As a result, I resorted to good old regular programming.
-
 ## 📚 Table of Contents
 
 - [⭐ Part 1](#⭐-part-1)
@@ -52,20 +49,11 @@ As a result, I resorted to good old regular programming.
 
 ```javascript
 // Part 1
-let result = 0;
+const len = 4;
 
-for (let i = 3; i < data.length; i++) {
-  // Starting at char 3,
-  const range = data.slice(i - 4, i); // Get the 4 most recent characters
-
-  // If the string is less than 4-long or if any character repeats
-  if (range.length < 4 || /(.).*\1/.test(range)) {
-    continue; // Go to next interation
-  }
-
-  result = i; // We found the character,
-  break; // Exit loop
-}
+const result =
+  data.split("").findIndex((_, i) => !/(.).*\1/.test(data.slice(i, i + len))) + // Find the 1st index where the 4-long substring is unique
+  len;
 
 // result = 1300
 ```
@@ -96,20 +84,11 @@ Here are the first positions of start-of-message markers for all of the above ex
 
 ```javascript
 // Part 2:
-let result = 0;
+const len = 14;
 
-for (let i = 13; i < data.length; i++) {
-  // Starting at char 13,
-  const range = data.slice(i - 14, i); // Get the 14 most recent characters
-
-  // If the string is less than 14-long or if any character repeats
-  if (range.length < 14 || /(.).*\1/.test(range)) {
-    continue; // Go to next interation
-  }
-
-  result = i; // We found the character,
-  break; // Exit loop
-}
+const result =
+  data.split("").findIndex((_, i) => !/(.).*\1/.test(data.slice(i, i + len))) + // Find the 1st index where the 14-long substring is unique
+  len;
 
 // result = 3986
 ```
