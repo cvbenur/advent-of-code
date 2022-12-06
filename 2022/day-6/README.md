@@ -1,9 +1,18 @@
 # 🎄 Advent of Code 2022 - Day 6: Tuning Trouble
 
+[📅 Go back to year 2022](../README.md).
+
 **⚠ Disclaimer:** Try as I might, I wasn't able to solve this challenge using functionnal programming...
 As a result, I resorted to good old regular programming.
 
-## ▶ Part 1
+## 📚 Table of Contents
+
+- [⭐ Part 1](#⭐-part-1)
+- [🌟 Part 2](#🌟-part-2)
+
+## ⭐ Part 1
+
+[🔗 Go to answer](#📝-answer).
 
 ### 📜 Premise
 
@@ -61,7 +70,9 @@ for (let i = 3; i < data.length; i++) {
 // result = 1300
 ```
 
-## ▶ Part 2
+## 🌟 Part 2
+
+[🔗 Go to answer](#f09f939d-answer-1).
 
 ### 📜 Premise
 

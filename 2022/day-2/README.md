@@ -1,6 +1,15 @@
 # 🎄 Advent of Code 2022 - Day 2: Rock Paper Scissors
 
-## ▶ Part 1
+[📅 Go back to year 2022](../README.md).
+
+## 📚 Table of Contents
+
+- [⭐ Part 1](#⭐-part-1)
+- [🌟 Part 2](#🌟-part-2)
+
+## ⭐ Part 1
+
+[🔗 Go to answer](#📝-answer).
 
 ### 📜 Premise
 
@@ -86,7 +95,9 @@ const result = data
 // result = 11386
 ```
 
-## ▶ Part 2
+## 🌟 Part 2
+
+[🔗 Go to answer](#f09f939d-answer-1).
 
 ### 📜 Premise
 

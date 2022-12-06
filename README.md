@@ -2,7 +2,7 @@
 
 Welcome, this is the repository where I store my writeups for the [Advent of Code](https://adventofcode.com/) challenges.
 
-They are sorted by year, and by day. Happy digging.
+They are sorted by year, and then by day. Happy digging.
 
 ## 📅 Runs (by year)
 

@@ -1,6 +1,8 @@
 # 🎄 Advent of Code - 2022
 
-The challenges for the year 2022 can all be found [over there](https://adventofcode.com/2022/).
+[📅 Go back to year list](../README.md).
+
+The challenges for the year 2022 can all be found [here](https://adventofcode.com/2022/).
 
 For this year, my goal is to solve each challenge using only (or as much as possible) functional programming in JS. You can find out more about all that [right here](https://www.toptal.com/javascript/functional-programming-javascript).
 

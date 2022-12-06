@@ -1,6 +1,15 @@
 # 🎄 Advent of Code - Day 5: Supply Stacks
 
-## ▶ Part 1
+[📅 Go back to year 2022](../README.md).
+
+## 📚 Table of Contents
+
+- [⭐ Part 1](#⭐-part-1)
+- [🌟 Part 2](#🌟-part-2)
+
+## ⭐ Part 1
+
+[🔗 Go to answer](#📝-answer).
 
 ### 📜 Premise
 
@@ -121,7 +130,9 @@ const result = stacks
 // result = TPGVQPFDH
 ```
 
-## ▶ Part 2
+## 🌟 Part 2
+
+[🔗 Go to answer](#f09f939d-answer-1).
 
 ### 📜 Premise
 
